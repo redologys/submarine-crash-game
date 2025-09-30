@@ -1,0 +1,5 @@
+{
+  "name": "Submarine Crash Game",
+  "description": "A graphical deep-sea submarine crash game where players bet on how deep a submarine can dive before its hull breaches. Features a real-time chart and exponential multiplier.",
+  "requestFramePermissions": []
+}
